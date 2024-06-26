@@ -1,6 +1,6 @@
 ---
 title: "06 Deep Learning"
-date: "2024-11-06"
+date: "2024-18-06"
 output:
   html_document:
     toc: true
